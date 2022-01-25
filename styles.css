@@ -3,7 +3,8 @@
     --puple: #Ce00ff;
     --orange: #ff4600;
     --blue: #0044ff;
-    --cyan: #14B1AB;
+    --cyan: #FFB319;
+    /* --cyan: #14B1AB; */
     /* --cyan: #03ffc7; */
 }
 
@@ -558,7 +559,7 @@ li {
     width: 75%;
 }
 
-.skills-box .python {
+.skills-box .javascript {
     width: 60%;
 }
 
@@ -570,16 +571,16 @@ li {
     width: 65%;
 }
 
-.skills-box .mysql {
-    width: 55%;
-}
-
 .skills-box .mongodb {
     width: 70%;
 }
 
-.skills-box .teamplayer {
-    width: 95%;
+.skills-box .mendix {
+    width: 80%;
+}
+
+.skills-box .python {
+    width: 70%;
 }
 
 .skills-box span {
